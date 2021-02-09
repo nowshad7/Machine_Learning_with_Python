@@ -10,7 +10,6 @@ Cancer detection, predicting economic trends, predicting customer churn, recomme
 ## Final Capston Project:
 [See Capstone Project](https://github.com/nowshad7/Coursera-ML-capstone-project)
 
-[Credential]()
 
 ## Certificate:
 [Credential](https://www.coursera.org/account/accomplishments/certificate/Q5WYGNCMAJNA)
